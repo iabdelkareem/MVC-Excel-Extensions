@@ -1,3 +1,5 @@
+# This repository has been archived.
+
 # MVC-Excel-Extensions
 
 <p>Allows developer to return an <em>ExcelResult</em> by passing a collection of any type to <em>Excel</em> method just like <em>JsonResult</em> and <em>Json</em> method, Just call the method, pass the collection you want its data to be exported to excel file and watch the magic.</p>
